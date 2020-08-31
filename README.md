@@ -1,1 +1,4 @@
-next-window-check
+```
+$ yarn install
+$ yarn dev
+```
