@@ -1,0 +1,1 @@
+next-window-check
